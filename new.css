@@ -263,21 +263,21 @@ h3 {
     padding: 18px 0;
     cursor: pointer;
     font-size: 23px;
-    /* color: black; */
+    color: black;
 }
-.icons a #ig:hover{
+#ig:hover{
     color: rgb(230, 64, 120);
     font-size: 25px;
 }
-.icons .fa#fb{
+#fb{
     color: rgb(38, 24, 239);
     font-size: 25px;
 }
-.icons .fa#ln{
+#ln{
     color: rgb(14, 12, 137);
     font-size: 25px;
 }
-.icons .fa#tw{
+#tw{
     color: rgb(36, 218, 246);
     font-size: 25px;
 }
